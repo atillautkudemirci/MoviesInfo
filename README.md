@@ -1,0 +1,1 @@
+MoviesInfo is a simple Java desktop application made with Swing and SQLite. Users can register, log in, and see a list of movies. Admin users can add, edit, and delete movies. This project was created to practice basic database operations and Java GUI programming.
